@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou o André Oliveira - @Andre-coder365
-- 👀 Eu estou interessado em programação usando a linguagem Java
+- 👀 Eu estou interessado em programação usando as linguagems C, Java e Javascript
 - 🌱 Estou fazendo a graduação em Ciências da Computação na Universidade Estácio de Sá
 - 💞️ Eu estou procurando uma oportunidade de estágio ou trabalho como Dev Júnior
 - 📫 Como me contatar: andreoliveira365@hotmail.com
