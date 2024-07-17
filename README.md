@@ -1,4 +1,4 @@
-- Oi, aqui é o André Oliveira - @Andre-coder365
+- aqui é o André Oliveira - @Andre-coder365
 - Eu estou interessado em programação Full-Stack usando Javascript e React
 - Estou fazendo a graduação em Ciências da Computação na Universidade Estácio de Sá, estou no 5º período
 - Eu estou procurando uma oportunidade de estágio ou trabalho como Dev Júnior / freelancer
