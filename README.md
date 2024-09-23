@@ -1,1 +1,1 @@
-- [tech and code hiker](https://techandcodehiker.com)
+[tech and code hiker](https://techandcodehiker.com)
